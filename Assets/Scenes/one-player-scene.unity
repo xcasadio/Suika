@@ -549,6 +549,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2010504566889070423, guid: f9ca63c4258b54e429555415b5d41dee, type: 3}
+      propertyPath: m_Name
+      value: fruit-dropper
+      objectReference: {fileID: 0}
     - target: {fileID: 2876671344880387722, guid: f9ca63c4258b54e429555415b5d41dee, type: 3}
       propertyPath: m_Name
       value: fruit-container
